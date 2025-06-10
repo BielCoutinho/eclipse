@@ -1,0 +1,39 @@
+
+mai. 19, 2025 19:26:23.04 NEW SESSION
+mai. 19, 2025 19:26:23.05 Created TensorFlow Lite XNNPACK delegate for CPU.
+mai. 19, 2025 19:26:55.70 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+mai. 19, 2025 20:33:07.85 Created TensorFlow Lite XNNPACK delegate for CPU.
+mai. 19, 2025 20:33:30.02 Created TensorFlow Lite XNNPACK delegate for CPU.
+mai. 19, 2025 20:34:03.34 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+
+mai. 21, 2025 19:32:58.80 NEW SESSION
+mai. 21, 2025 19:32:58.82 Created TensorFlow Lite XNNPACK delegate for CPU.
+mai. 21, 2025 19:33:15.45 Created TensorFlow Lite XNNPACK delegate for CPU.
+mai. 21, 2025 19:37:29.94 Created TensorFlow Lite XNNPACK delegate for CPU.
+mai. 21, 2025 19:39:04.78 Created TensorFlow Lite XNNPACK delegate for CPU.
+mai. 21, 2025 19:39:33.10 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+mai. 21, 2025 20:23:35.10 Created TensorFlow Lite XNNPACK delegate for CPU.
+mai. 21, 2025 20:24:07.18 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+mai. 21, 2025 20:36:26.81 Created TensorFlow Lite XNNPACK delegate for CPU.
+mai. 21, 2025 20:36:58.94 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+mai. 21, 2025 22:17:03.06 Created TensorFlow Lite XNNPACK delegate for CPU.
+mai. 21, 2025 22:18:10.78 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+mai. 28, 2025 19:57:49.85 NEW SESSION
+mai. 28, 2025 19:57:49.85 Created TensorFlow Lite XNNPACK delegate for CPU.
+mai. 28, 2025 19:58:21.41 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+mai. 28, 2025 22:07:33.63 [17804:11576:0528/220733.634:ERROR:mojo\public\cpp\bindings\lib\interface_endpoint_client.cc:725] Message 1 rejected by interface blink.mojom.WidgetHost
+mai. 28, 2025 22:07:33.64 [17804:11576:0528/220733.634:ERROR:mojo\public\cpp\bindings\lib\interface_endpoint_client.cc:725] Message 1 rejected by interface blink.mojom.WidgetHost
+
+jun. 09, 2025 20:32:47.84 NEW SESSION
+jun. 09, 2025 20:32:47.85 [16256:2788:0609/203247.847:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+jun. 09, 2025 20:32:47.86 WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+jun. 09, 2025 20:32:47.86 I0000 00:00:1749511967.848907   35904 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+jun. 09, 2025 20:32:48.27 [16256:34968:0609/203248.272:ERROR:chrome\browser\policy\cloud\fm_registration_token_uploader.cc:179] Client is missing for kUser scope
+jun. 09, 2025 20:32:48.34 Created TensorFlow Lite XNNPACK delegate for CPU.
+jun. 09, 2025 20:33:06.02 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+jun. 09, 2025 20:33:09.15 [16256:2788:0609/203309.154:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+jun. 09, 2025 20:33:50.85 [16256:2788:0609/203350.852:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+jun. 09, 2025 20:35:28.22 [16256:2788:0609/203528.222:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+jun. 09, 2025 20:39:00.23 [16256:2788:0609/203900.234:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+jun. 09, 2025 20:46:32.19 [16256:2788:0609/204632.198:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT

@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Mon Jun 09 21:05:36 BRT 2025
+org.eclipse.jst.jee.server\:Hello\ JPS=C\:\\Users\\gabriel.scoutinho4\\workspace\\apache-tomcat-10.1.40\\wtpwebapps\\Hello JPS
+org.eclipse.jst.jee.server\:Hello\ World=C\:\\Users\\gabriel.scoutinho4\\workspace\\apache-tomcat-10.1.40\\wtpwebapps\\Hello World
+org.eclipse.jst.jee.server\:Hello_Servlet=C\:\\Users\\gabriel.scoutinho4\\workspace\\apache-tomcat-10.1.40\\wtpwebapps\\Hello_Servlet
+org.eclipse.jst.jee.server\:produto=C\:\\Users\\gabriel.scoutinho4\\workspace\\apache-tomcat-10.1.40\\wtpwebapps\\produto
